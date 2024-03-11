@@ -9,3 +9,13 @@ D:\Sharukhss\progressbar\progressbar\obj\Debug\progressbar.exe
 D:\Sharukhss\progressbar\progressbar\obj\Debug\progressbar.pdb
 D:\Sharukhss\progressbar\progressbar\obj\Debug\progressbar.Form1.resources
 D:\Sharukhss\progressbar\progressbar\obj\Debug\progressbar.csprojAssemblyReference.cache
+D:\progressbargit\progressbar\progressbar\progressbar\bin\Debug\progressbar.exe.config
+D:\progressbargit\progressbar\progressbar\progressbar\bin\Debug\progressbar.exe
+D:\progressbargit\progressbar\progressbar\progressbar\bin\Debug\progressbar.pdb
+D:\progressbargit\progressbar\progressbar\progressbar\obj\Debug\progressbar.Form1.resources
+D:\progressbargit\progressbar\progressbar\progressbar\obj\Debug\progressbar.Properties.Resources.resources
+D:\progressbargit\progressbar\progressbar\progressbar\obj\Debug\progressbar.UserControl1.resources
+D:\progressbargit\progressbar\progressbar\progressbar\obj\Debug\progressbar.csproj.GenerateResource.cache
+D:\progressbargit\progressbar\progressbar\progressbar\obj\Debug\progressbar.csproj.CoreCompileInputs.cache
+D:\progressbargit\progressbar\progressbar\progressbar\obj\Debug\progressbar.exe
+D:\progressbargit\progressbar\progressbar\progressbar\obj\Debug\progressbar.pdb

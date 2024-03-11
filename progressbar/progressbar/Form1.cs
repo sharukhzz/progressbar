@@ -31,7 +31,7 @@ namespace progressbar
             Label l = new Label()
             {
                 Size = new Size(w,h),
-                BackColor = Color.Black,
+                BackColor = Color.Yellow,
                 BorderStyle = BorderStyle.Fixed3D,
             };
             Mains.Controls.Add(l);
